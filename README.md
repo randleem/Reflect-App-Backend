@@ -6,6 +6,8 @@
 
 ---
 
+## Deployed [backend](https://agile-avengers-app.herokuapp.com)
+
 # Set-up
 
 1. Clone the repo from https://github.com/SchoolOfCode/back-end-final-project-agileavengers.git
